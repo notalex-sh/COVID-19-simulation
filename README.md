@@ -1,8 +1,7 @@
 # COVID 19 Simulation
+<a href="https://alex-hawking-covid19-simulation-report.vercel.app/" target="_blank">Click here to see the report</a>
 
-[Click here to see the report](https://alex-hawking-covid19-simulation-report.vercel.app/)
-
-Clicking the above will show a deployed version, of the report
+Clicking the above will show a deployed version of the report in a new tab!
 
 Initially created for a year 12 methods investigation
 
